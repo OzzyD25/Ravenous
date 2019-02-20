@@ -1,5 +1,5 @@
 Demo = ravenous_final.surge.sh 
-
+Restaurant Search Engine interacting with the Yelp API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
